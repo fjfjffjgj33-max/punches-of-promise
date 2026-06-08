@@ -3,7 +3,7 @@ margin:0;
 padding:0;
 box-sizing:border-box;
 }
-
+<link rel="stylesheet" href="css/style.css">
 body{
 font-family:'Poppins',sans-serif;
 background:#f4f7fb;
