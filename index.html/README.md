@@ -8,7 +8,6 @@
 <link rel="stylesheet" href="style.css">
 <title>Punches of Promise</title>
 
-<link rel="stylesheet" href="style.css">
 
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 </head>
@@ -16,6 +15,8 @@
 <body>
 
 <header>
+  
+<link rel="stylesheet" href="style.css">
 <section class="about" id="about">
 
 <h2>About Us</h2>
